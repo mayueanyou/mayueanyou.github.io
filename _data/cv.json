@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Yue Ma",
+    "email": "mayueanyou@gmail.com",
+    "phone": "3153851800",
+    "website": "https://mayueanyou.github.io/",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Syracuse",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=ujdn14QAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/mayueanyou"
       }
     ]
   },
@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "Ph.D in Syracuse University",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
