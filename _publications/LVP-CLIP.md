@@ -1,10 +1,9 @@
 ---
-title: "LVP-CLIP: Revisiting CLIP for Continual Learning with Label Vector Pool."
+title: "LVP-CLIP: Revisiting CLIP for Continual Learning with Label Vector Pool"
 collection: publications
 category: conferences
 permalink: /publication/LVP-CLIP
-excerpt: 'Developed the Label Vector Pool (LVP), a novel memory architecture that efficiently compresses and stores knowledge distilled
- from pretrained models.'
+excerpt: 'Developed the Label Vector Pool (LVP), a novel memory architecture that efficiently compresses and stores knowledge distilled from pretrained models.'
 date: 2025-06-11
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2025W/MULA2025/html/Ma_LVP-CLIP_Revisiting_CLIP_for_Continual_Learning_with_Label_Vector_Pool_CVPRW_2025_paper.html'
